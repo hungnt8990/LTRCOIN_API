@@ -1,0 +1,6 @@
+
+//scan địa chỉ ví token
+https://ethplorer.io/address/0x189dfcdf1906bcb67a927a8f83424cb6888279e8
+
+//scan địa chỉ ABI của contract (0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0 : contract)
+https://etherscan.io/address/0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0#code
